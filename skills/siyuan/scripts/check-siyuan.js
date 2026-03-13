@@ -75,8 +75,8 @@ async function main() {
   console.log('3. 打开文件: docs/SIYUAN_PRACTICE_CONTENT.md');
   console.log('4. 复制内容并粘贴到思源笔记中\n');
 
-  const fs = require('path');
-  const contentPath = fs.join(__dirname, '../../docs/SIYUAN_PRACTICE_CONTENT.md');
+  const path = require('path');
+  const contentPath = path.join(__dirname, '../../docs/SIYUAN_PRACTICE_CONTENT.md');
   console.log(`内容文件路径: ${contentPath}\n`);
 }
 

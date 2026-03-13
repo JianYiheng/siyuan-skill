@@ -1,0 +1,5 @@
+{
+  "name": "siyuan",
+  "description": "SiYuan Note (思源笔记) API integration for managing notebooks, documents, blocks, and queries with precise block-level updates",
+  "version": "3.3.0"
+}
