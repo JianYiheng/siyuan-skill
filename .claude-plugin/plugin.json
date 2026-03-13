@@ -1,5 +1,10 @@
 {
   "name": "siyuan",
   "description": "SiYuan Note (思源笔记) API integration for managing notebooks, documents, blocks, and queries with precise block-level updates",
-  "version": "3.3.0"
+  "version": "3.3.0",
+  "author": {
+    "name": "JianYiheng"
+  },
+  "repository": "https://github.com/JianYiheng/siyuan-skill",
+  "license": "MIT"
 }
