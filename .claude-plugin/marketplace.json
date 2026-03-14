@@ -6,8 +6,11 @@
   "plugins": [
     {
       "name": "siyuan",
-      "source": ".",
-      "description": "SiYuan Note (思源笔记) API integration - manage notebooks, documents, blocks with precise block-level updates, SQL queries, batch operations, and block embeds"
+      "source": "./",
+      "description": "SiYuan Note (思源笔记) API integration - manage notebooks, documents, blocks with precise block-level updates, SQL queries, batch operations, and block embeds",
+      "skills": [
+        "./skills/siyuan"
+      ]
     }
   ]
 }
